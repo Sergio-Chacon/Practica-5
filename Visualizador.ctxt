@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Visualizador
+comment1.params=c\ p
+comment1.target=void\ carta(Carta,\ Posicion)
+numComments=2
